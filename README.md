@@ -1,2 +1,4 @@
 # DataViz_Ground-Game-Health
 Ground Game Health_ Call optimization
+
+This project aims to optimize call scheduling in a contact center environment by analyzing historical call data and determining the most effective time slots for placing calls to members, as well as the correlation between call times and successful connections. Participants will utilize member demographic information, insurance coverage types, and historical call outcomes to identify potential gaps in call scheduling and investigate factors contributing to unsuccessful attempt patterns. They will preprocess data to remove anomalies and explore the correlation between call attempts and success rates. The desired outcome is a predictive model or tool for recommending optimal calling times based on member specifics, a strategic framework for scheduling calls to enhance outbound call success rates, and an ongoing data analysis methodology for real-time decision-making support within the contact center.
